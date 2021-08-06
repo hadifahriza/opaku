@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121754376815",
+    "project_id": "opaku-ecommerce",
+    "storage_bucket": "opaku-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121754376815:android:9eed8ceb47071855ef4b9a",
+        "android_client_info": {
+          "package_name": "com.opaku.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121754376815-bsuci1sm8c0cqmlohg7cibq4c80c2elb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt09g4iMlMZ_LfT4eg-rmVnV-mF6tHo08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121754376815-bsuci1sm8c0cqmlohg7cibq4c80c2elb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
